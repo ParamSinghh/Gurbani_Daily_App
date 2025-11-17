@@ -43,3 +43,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# iOS
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/engine/
+ios/Runner.xcworkspace/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Web
+build/web/
